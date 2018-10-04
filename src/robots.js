@@ -41,7 +41,7 @@ export const robots = [
     username: 'Elwyn.Skiles',
     email: 'Telly.Hoeger@billy.biz'
   },
-  {
+  /*{
     id: 8,
     name: 'Nicholas Runolfsdottir V',
     username: 'Maxime_Nienow',
@@ -58,5 +58,25 @@ export const robots = [
     name: 'Clementina DuBuque',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
+  }*/
+  {
+    id: 8,
+    name: 'Ekaterina Sheikina',
+    username: 'Kovalski',
+    email: 'E.Kovalski@loh.ru'
+  },
+  {
+    id: 9,
+    name: 'Ivan Poroshin',
+    username: 'Vano',
+    email: 'I.Poroshin@mail.com'
+  },
+  {
+    id: 10,
+    name: 'Nikita Mabatov',
+    username: 'Mabich',
+    email: 'Nik.Mab@mail.com'
   }
 ];
+
+export default robots;
